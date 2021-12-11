@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Kampicoza/Kampi.open/blob/main/images/logo_transparent.png)
 
 ## [Kampi.co.za](https://kampi.co.za/s)
 
